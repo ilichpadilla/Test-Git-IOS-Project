@@ -22,6 +22,7 @@
 		7B19B75E1987F3F000E340F0 /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 7B19B75C1987F3F000E340F0 /* InfoPlist.strings */; };
 		7B19B7601987F3F000E340F0 /* Git_TestTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 7B19B75F1987F3F000E340F0 /* Git_TestTests.m */; };
 		7B19B76B1987F6C000E340F0 /* Test.m in Sources */ = {isa = PBXBuildFile; fileRef = 7B19B76A1987F6C000E340F0 /* Test.m */; };
+		7B19B76E1987F95800E340F0 /* New Class.m in Sources */ = {isa = PBXBuildFile; fileRef = 7B19B76D1987F95800E340F0 /* New Class.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -56,6 +57,8 @@
 		7B19B75F1987F3F000E340F0 /* Git_TestTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = Git_TestTests.m; sourceTree = "<group>"; };
 		7B19B7691987F6C000E340F0 /* Test.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Test.h; sourceTree = "<group>"; };
 		7B19B76A1987F6C000E340F0 /* Test.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Test.m; sourceTree = "<group>"; };
+		7B19B76C1987F95800E340F0 /* New Class.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "New Class.h"; sourceTree = "<group>"; };
+		7B19B76D1987F95800E340F0 /* New Class.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "New Class.m"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -122,6 +125,8 @@
 				7B19B74A1987F3F000E340F0 /* ViewController.m */,
 				7B19B7691987F6C000E340F0 /* Test.h */,
 				7B19B76A1987F6C000E340F0 /* Test.m */,
+				7B19B76C1987F95800E340F0 /* New Class.h */,
+				7B19B76D1987F95800E340F0 /* New Class.m */,
 				7B19B74C1987F3F000E340F0 /* Images.xcassets */,
 				7B19B73B1987F3EF00E340F0 /* Supporting Files */,
 			);
@@ -254,6 +259,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				7B19B76E1987F95800E340F0 /* New Class.m in Sources */,
 				7B19B74B1987F3F000E340F0 /* ViewController.m in Sources */,
 				7B19B76B1987F6C000E340F0 /* Test.m in Sources */,
 				7B19B7451987F3EF00E340F0 /* AppDelegate.m in Sources */,
